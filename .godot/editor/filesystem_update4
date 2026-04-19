@@ -1,0 +1,6 @@
+res://src/core/manager/game_manager.gd
+res://src/core/manager/audio_manager.gd
+res://src/core/manager/config_manager.gd
+res://src/core/manager/event_manager.gd
+res://src/core/manager/save_manager.gd
+res://src/network/network_manager.gd

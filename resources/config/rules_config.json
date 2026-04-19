@@ -1,0 +1,39 @@
+{
+	"fan_rules": {
+		"pinghu": {
+			"name": "平胡",
+			"fan": 1,
+			"description": "基础胡牌"
+		},
+		"duiduihu": {
+			"name": "对对胡",
+			"fan": 2,
+			"description": "四组刻子加一对将"
+		},
+		"qingyise": {
+			"name": "清一色",
+			"fan": 4,
+			"description": "只有一种花色"
+		},
+		"zimo": {
+			"name": "自摸",
+			"fan": 1,
+			"description": "自己摸到的牌胡"
+		},
+		"gangshangkaihua": {
+			"name": "杠上开花",
+			"fan": 2,
+			"description": "杠后摸牌胡"
+		},
+		"qianggang": {
+			"name": "抢杠",
+			"fan": 2,
+			"description": "抢别人的杠胡"
+		}
+	},
+	"multipliers": {
+		"zimo": 2,
+		"gang": 2,
+		"dealer": 2
+	}
+}

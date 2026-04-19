@@ -1,0 +1,24 @@
+{
+	"game": {
+		"max_rounds": 16,
+		"base_score": 1,
+		"enable_hints": true,
+		"enable_flowers": true,
+		"player_count": 4,
+		"turn_time_limit": 30
+	},
+	"audio": {
+		"master_volume": 1.0,
+		"music_volume": 0.8,
+		"sfx_volume": 1.0
+	},
+	"display": {
+		"fullscreen": false,
+		"vsync": true,
+		"resolution_scale": 1.0
+	},
+	"network": {
+		"default_port": 7777,
+		"max_players": 4
+	}
+}
